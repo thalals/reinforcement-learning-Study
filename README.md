@@ -10,7 +10,7 @@
 #### 2) 아나콘다 파이썬 환경 생성
 
 > * conda create -n rlenv python=3.6
-> * conda rlenv activate (가상환경 실행)
+> * conda activate rlenv (가상환경 실행)
 
 #### 3) 텐서플로우 2.0 설치
 
