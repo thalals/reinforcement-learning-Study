@@ -19,3 +19,5 @@
 > * pip install tensorflow <br>
 > ###### conda로 설치하는 방법
 > * conda install tensorflow
+> ###### tensorflow 설치확인
+> * conda list
