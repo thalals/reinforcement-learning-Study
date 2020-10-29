@@ -14,9 +14,8 @@
 
 #### 3) 텐서플로우 2.0 설치
 
-> - pip 로 설치하는 방법
+> ###### pip 로 설치하는 방법
 > * TensorFlow 2 패키지에는 pip 버전 >19.0이 필요합니다.
-> * pip install tensorflow
-<hr/>
-> - conda로 설치하는 방법
+> * pip install tensorflow <br>
+> ###### conda로 설치하는 방법
 > * conda install tensorflow
