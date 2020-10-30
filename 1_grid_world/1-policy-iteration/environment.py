@@ -1,5 +1,5 @@
 #그리드월드의 경우 환경을 직접 만들어서 environment.py가 존재하지만
-#보통 강화학습을 구현할때는 구축되어 있는 환경에 에이전트를 생성해서 학습
+#보통 강화학습을 구현할때는 구축되어 있는 환경에 에이전트를 생성해서 학습한다.
 
 import tkinter as tk
 from tkinter import Button
